@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="838aa6e4-2396-4835-b80d-303407d71d29" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dTXXxXSZz2AR7CQH4wfdmnTG1A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\opengl\glfw\lib" />
+      <recent name="F:\opengl\glfw\include" />
+      <recent name="F:\opengl\glfw\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\opengl\glfw\src" />
+      <recent name="F:\opengl\glfw\lib" />
+      <recent name="F:\opengl\glfw\src\html" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838aa6e4-2396-4835-b80d-303407d71d29" name="默认的" comment="" />
+      <created>1592450099325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592450099325</updated>
+      <workItem from="1592450100615" duration="34337000" />
+      <workItem from="1592532437541" duration="18872000" />
+      <workItem from="1592788789351" duration="6288000" />
+      <workItem from="1592909823831" duration="27541000" />
+      <workItem from="1593308187700" duration="1706000" />
+      <workItem from="1593310143667" duration="37591000" />
+      <workItem from="1593409001292" duration="19020000" />
+      <workItem from="1593480364098" duration="8962000" />
+      <workItem from="1593489710640" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="793" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593312479212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593312479212" />
+    <state width="555" height="365" key="DebuggerActiveHint" timestamp="1593335372300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="555" height="365" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1593335372300" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593489746830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593489746830" />
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.0.center" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.0.left" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.0.right" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.1.center" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.1.left" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state width="1877" height="336" key="GridCell.Tab.1.right" timestamp="1593488846359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593488846359" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1593401472893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593401472893" />
+    <state x="454" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593421405963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593421405963" />
+    <state x="599" y="376" width="781" height="536" key="find.popup" timestamp="1593488541383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="376" width="781" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593488541383" />
+    <state x="736" y="304" key="refactoring.ChangeSignatureDialog" timestamp="1592971641376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="304" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592971641376" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1593488306786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593488306786" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592972211090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592972211090" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/css/libcss/0.9.1/src/select/select.c</url>
+          <line>1371</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this-&gt;_children[0]" />
+        <watch expression="changeNode" />
+        <watch expression="buf" />
+        <watch expression="TREE" language="ObjectiveC" />
+        <watch expression="detail" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

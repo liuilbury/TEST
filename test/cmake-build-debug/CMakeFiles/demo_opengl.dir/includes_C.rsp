@@ -1,0 +1,1 @@
+-IF:/opengl/test/src/css/libparserutils/0.2.4/src -IF:/opengl/test/src/css/libwapcaplet/0.4.3/src -IF:/opengl/test/src/css/libcss/0.9.1/src -IF:/opengl/test/include -I/include/iconv.h 

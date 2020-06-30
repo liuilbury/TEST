@@ -1,0 +1,3 @@
+F:/opengl/gdi+/cmake-build-debug/CMakeFiles/gdi_.dir
+F:/opengl/gdi+/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/opengl/gdi+/cmake-build-debug/CMakeFiles/rebuild_cache.dir
